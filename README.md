@@ -1,2 +1,3 @@
 # hello-world
-Default
+
+Just looking to learn some new things and improve my skills.
